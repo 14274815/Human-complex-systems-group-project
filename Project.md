@@ -1,12 +1,16 @@
 (Draft)
 
-1. Introduction 
+# 1. Introduction #
 
 1.1. State the problem, why it is important/relevant to you and/or more broadly to society.
 
-2. Context, background information, justification
+Bushfires in Australia are a yearly occurrence . Having lived in a rural town before moving to an urban suburb, I can infer that these bushfires will affect everyone regardless of whether they live in the country or the city.
+
+# 2. Context, background information, justification #
 
 2.1. Research and review literature, news, digital media, drivers and how the problem is being addressed by academia, industry, government, etc. 
+
+
 
 2.2. Identify the system + stakeholders. For this, you will need to construct a “rich picture” that captures the essential elements. 
 

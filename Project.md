@@ -28,6 +28,8 @@ Using these stakeholders and considering elements related to those, I constructe
 
 Nolan and Thornton (2016) simplified the notion of starting and sustaining a fire to require 3 basic things: fuel, heat, and oxygen. Many technologies are developed based on this prevailing frame. For example, Amicus is an Australian software that predicts the behaviour of bushfires using computer modelling (Francis and McLintock, 2013). Computer models involve technology creating abstract models to simulate behaviours and responses (Francois, 2021). The data input into the model includes current and future weather conditions (heat and oxygen), fuel load (fuel), moisture (heat), vegetation and topography (fuel).
 
+![image](https://user-images.githubusercontent.com/79502740/116188582-00b2f700-a76b-11eb-9d18-1c1e554cbc26.png)
+
 2.4. Discuss how prevailing models/frames are preventing the problem from being fully addressed or solved.
 
 The computer models which predict fire behaviours can be quite limited. Fires can be unpredictable. Even artificial intelligence, computers which make responses based on past experiences, cannot predict a fire if it starts to behave in an unseen way (Watson, 2019). 
